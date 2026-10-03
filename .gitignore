@@ -1,0 +1,52 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native builds
+android/
+ios/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Metro
+.metro-health-check*
+
+# Env
+.env*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+#arquivos
+Plano_de_Acao_preenchido.docx
+Plano_de_Acao.docx
+Entrevistas_Publico_Alvo_Controle_de_Gastos.docx
+prompt_de_desenvolvimento_do_app.md
